@@ -1,0 +1,6 @@
+DATABASE_URL = "sqlite:///./users.db"
+
+SECRET_KEY = "9OLWxND4odsvdsvsd83j4K4iudvdvsvopO"
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 30
+DATABASE_FILENAME = "users.db"
